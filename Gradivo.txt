@@ -1,0 +1,423 @@
+#Gradivo
+#Roman
+Harry Potter : Kamen modrosti
+J. K. Rowling
+Mladinska knjiga zalozba
+#Status
+10001
+true
+#Skupina
+Harry Potter
+#Skupina
+Znanstvena fantastika
+#Roman
+Harry Potter : Dvorana skrivnosti
+J. K. Rowling
+Mladinska Knjiga
+#Status
+10002
+true
+#Skupina
+Harry Potter
+#Skupina
+Znanstvena fantastika
+#Skupina
+carovnistvo
+#Roman
+Harry Potter : jetnik iz Azkabana
+J. K. Rowling
+Mladinska knjiga
+#Status
+10008
+true
+#Status
+10007
+false
+#Status
+10010
+true
+#Skupina
+Harry Potter
+#Skupina
+znanstvena fantastika
+#Skupina
+carovnistvo
+#Strip
+
+One piece :
+VIZ Media
+#Status
+10011
+true
+#Status
+10012
+true
+#Skupina
+Manga
+#Skupina
+One Piece
+#Skupina
+Pustolovscina
+#Strip
+One piece ,  East blue Vol. 1 , 2 , 3
+Eiichiro Oda
+VIZ media
+#Status
+10013
+false
+#Status
+10014
+true
+#Skupina
+One Piece
+#Skupina
+manga
+#Skupina
+Pustolovscina
+#Slovar
+Moj pisani slovar anglescine
+Bob Bampton
+Schwager / Steinlein
+#Status
+10015
+true
+#Status
+10016
+true
+#Status
+10017
+true
+#Status
+10018
+true
+#Status
+10019
+true
+#Skupina
+anglescina
+#Skupina
+slovar
+#Slovar
+Anglesko - Slovenski slovar
+Alenka Vrbinc
+Cankarjeva zalozba
+#Status
+10020
+true
+#Status
+10021
+true
+#Status
+10022
+true
+#Status
+10023
+true
+#Status
+10024
+true
+#Status
+10025
+true
+#Skupina
+Jezikoslovje
+#Skupina
+anglescina
+#Prirocnik
+Omrezja za telebane
+Doug Lowe
+Pasadena
+#Status
+10030
+true
+#Status
+10031
+true
+#Skupina
+Racunalniska omrezja
+#Skupina
+internet
+#Prirocnik
+Java za telebane
+Aaron E. Walsh
+Pasadena
+#Status
+10032
+true
+#Status
+10033
+true
+#Skupina
+Java ( programski jezik )
+#Skupina
+programiranje
+#Atlas
+Atlas sveta
+Karel Natek
+Mladinska knjiga
+#Status
+10005
+true
+#Status
+10006
+true
+#Skupina
+Atlas
+#Skupina
+Svet
+#Zemljevid
+Slovenija
+Matija Zorn
+DZS
+#Status
+10027
+true
+#Status
+10028
+true
+#Status
+10029
+true
+#Skupina
+Slovenija
+#Zemljevid
+Evropa
+Geodetska druzba
+Geodetska druzba
+#Status
+10054
+true
+#Status
+10055
+true
+#Skupina
+Evropa
+#Skupina
+zemljevid
+#Zemljevid
+Juzna Amerika
+Geodetska druzba
+Geodetska druzba
+#Status
+10056
+true
+#Skupina
+Juzna Amerika
+#Skupina
+geografija
+#Zemljevid
+Severna Amerika
+-
+Verlag Gotha GmbH
+#Status
+10057
+true
+#Skupina
+Severna Amerika
+#Skupina
+geografija
+#Zemljevid
+Mehika in srednja Amerika
+Simon Demsal
+Rokus Klett
+#Status
+10058
+true
+#Skupina
+Sredja Amerika
+#Skupina
+Mehika
+#Skupina
+geografija
+#ZvezdnaKarta
+Milky way
+-
+-
+#Status
+10063
+true
+#Status
+10064
+true
+#Skupina
+zvezdna karta
+#Skupina
+mleüna steza
+#Ephona
+2.1
+#mejnaMagnituda
+2.5
+#ZvezdnaKarta
+Lev
+-
+-
+#Status
+10065
+true
+#Status
+10066
+true
+#Status
+10067
+true
+#Skupina
+zvezdna karta
+#Skupina
+vesolje
+#Ephona
+2.1
+#mejnaMagnituda
+3.4
+#aRoman
+Harry Potter : Feniksov red (ang)
+J. K. Rowling
+-
+#Status
+10040
+true
+#Status
+10041
+true
+#aRoman
+Tisto ( It )
+Stephen King
+Beletrina
+#Status
+10052
+true
+#Status
+10053
+true
+#ePrirocnik
+Fluent Python
+Luciano Ramalho
+O'Rilley Media
+#Status
+10034
+true
+#Status
+10035
+true
+#Skupina
+Python
+#Skupina
+programski jezik
+#Skupina
+programiranje
+#eStrip
+Batman Black and white
+razlicni
+DC Comics
+#Status
+10042
+true
+#Status
+10043
+true
+#Status
+10044
+true
+#Status
+10045
+true
+#Skupina
+Batman
+#Skupina
+akcija
+#Skupina
+kriminalka
+#Skupina
+superheroji
+#eRoman
+Harrow the Ninth
+Tamsyn Muir
+Tordotcom
+#Status
+10046
+true
+#Status
+10047
+true
+#Skupina
+Znanstvena fantastika
+#Skupina
+pustolovscina
+#eRoman
+The Queen ' s Gambit
+Walter Tevis
+Weldenfeld and Nicolson
+#Status
+10048
+true
+#Status
+10049
+true
+#Status
+10050
+true
+#Status
+10051
+true
+#Skupina
+sah
+#Skupina
+Drama
+#Skupina
+sport
+#Clanek
+Morkse posasti na starih zemljevidih
+Mihaela Triglav Cekada
+prispevek na konferenci
+#Status
+10036
+true
+#Skupina
+ledenik
+#Skupina
+Avstro - ogrska
+#Skupina
+Triglav
+#Revija
+SW Power
+-
+Novium
+#Status
+10037
+true
+#Status
+10038
+true
+#Status
+10039
+true
+#Skupina
+racunalnistvo
+#Skupina
+elektronika
+#Skupina
+programska oprema
+#Skupina
+strojna oprema
+#Skupina
+multimedija
+#Skupina
+racunalniske igre
+#Casopis
+Delo 26.4.2021
+razlicni
+Delo
+#Status
+10059
+true
+#Skupina
+Novice
+#Casopis
+Delo 21.4.2021
+razlicni
+Delo
+#Status
+10060
+true
+#Skupina
+Novice
+Gradivo#
